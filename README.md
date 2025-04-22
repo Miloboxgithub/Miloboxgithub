@@ -28,10 +28,10 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br> -->
-<br><br>
+---
 <img align="right" src="./images/微信图片_20250109204641.jpg">
 
-<br><br>
+---
 
 
 ### Github 活跃度
