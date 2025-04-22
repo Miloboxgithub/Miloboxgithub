@@ -30,7 +30,7 @@
 <br><br><br> -->
 ---
 
-<img  src="./images/webwxgetmsgimg.gif" alt="Description of GIF">
+<img style="display: block; margin: 0 auto;" alt="GIF" src="./images/webwxgetmsgimg.gif">
 
 ---
 
