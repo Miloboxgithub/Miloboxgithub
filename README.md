@@ -1,8 +1,10 @@
-## 这里是Milo
+<img align="right" src="https://count.getloli.com/get/@:Miloboxgithub?theme=rule34">
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+## 这里是Milo!
 
-### **社交主页：**
+我要去拯救世界了，如果明早太阳照常升起，那就是我成功了。如果没有，那就是阴天。
+
+<!-- ### **社交主页：** -->
 
  <!-- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
@@ -37,5 +39,5 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miloboxgithub&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
 </a>
 </div>
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
 
