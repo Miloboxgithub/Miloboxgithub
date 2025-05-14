@@ -43,9 +43,9 @@
 
 ---
 
-<img style="display: block; margin: 0 auto; width: 100vw;" alt="GIF" src="./images/webwxgetmsgimg.gif">
+<!--<img style="display: block; margin: 0 auto; width: 100vw;" alt="GIF" src="./images/webwxgetmsgimg.gif">
 
----
+--- -->
 
 
 
